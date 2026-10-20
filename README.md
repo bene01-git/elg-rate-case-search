@@ -2,7 +2,7 @@
 
 Scrapes documents from the New York Department of Public Service (DPS) Document and Matter Management (DMM) system and appends them to the `ELG_Database.xlsx` workbook.
 
-## Setup
+## How to Setup
 
 ### 1. Install Python 3.9+
 
