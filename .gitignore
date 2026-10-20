@@ -1,10 +1,8 @@
-searchable_pdfs/raw_downloads/
-searchable_pdfs/searchable/
-.search_index/
 __pycache__/
 *.pyc
-debug_screenshot.png
 .env
 venv/
 .DS_Store
-cases.txt
+searchable_pdfs/raw_downloads/
+searchable_pdfs/searchable/
+.search_index/
